@@ -1,0 +1,15 @@
+{
+  "name": "'portifolio'",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "'Uchqun Turdiev <uchqunjonturdiev@gmail.com>'",
+  "license": "MIT",
+  "dependencies": {
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@mui/icons-material": "^5.8.0",
+    "@mui/material": "^5.8.1",
+    "react-router-dom": "^6.3.0",
+    "sass": "^1.51.0"
+  }
+}
